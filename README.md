@@ -8,7 +8,7 @@
 
  🌐 Live Application
 
-👉 https://f1-race-intelligence-x43jphvg5asrautkc4ugyt.streamlit.app/
+👉 https://f1-race-intelligence-kfnxyxkfb8wc49pc7fx8pk.streamlit.app/
 
 
 .Overview
